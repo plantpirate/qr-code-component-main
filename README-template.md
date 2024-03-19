@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![./images/screenshot.jpg](.images/screenshot.jpg)
+![Site screenshot](https://github.com/plantpirate/qr-code-component-main/blob/main/images/screenshot.jpg)
 
 
 ### Links
